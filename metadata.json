@@ -1,0 +1,6 @@
+{
+  "name": "Lapak Ceria - Caption Instagram",
+  "description": "Koleksi caption promosi Instagram untuk Lapak Ceria jual beli perlengkapan sekolah bekas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
